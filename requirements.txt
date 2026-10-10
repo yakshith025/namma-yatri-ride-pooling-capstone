@@ -1,0 +1,6 @@
+pandas
+numpy
+h3
+pyarrow
+requests
+jupyter
